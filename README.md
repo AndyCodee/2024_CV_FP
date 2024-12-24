@@ -1,1 +1,1 @@
-# 2024_CV_FP
+# 2024_CV_Final_Project
